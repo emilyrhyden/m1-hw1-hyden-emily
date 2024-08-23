@@ -1,5 +1,5 @@
 # My First Coding Assignment
-! [Me right now](https://giphy.com/gifs/this-is-fine-QMHoU66sBXqqLqYvGO)
+![Me right now](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjIwOXpxM2c3eGFrZjh6bmp5dHBwcXg3YWRjemwydnYxZXdzNmJnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QMHoU66sBXqqLqYvGO/giphy.webp)
 ## About Me
 Hi, my name is Emily Hyden. This is my 4th semester of the online MAMC program. I currently live in San Francisco, but I grew up in Gainesville and went to UF for undergrad. My hobbies include reading and writing, playing flute, guitar and singing, and rock climbing. I also love to travel: this year, I took two solo trips -- one to Rome and one to Mexico City. I am also planning a trip to Japan and South Korea in December!
 ## Past Coding Experience
